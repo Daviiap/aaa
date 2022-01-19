@@ -1,0 +1,12 @@
+{
+  "name": "business-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Daviiap/aaa.git",
+  "author": "Daviiap <daviiap@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}
